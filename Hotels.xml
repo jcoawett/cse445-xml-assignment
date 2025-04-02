@@ -7,7 +7,7 @@
     <Phone>800-937-8461</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>11</Number>
-      <Street>E.7th St</Street>
+      <Street>E 7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
@@ -17,7 +17,7 @@
   <!-- Additional 10 Real Hotels in Tempe/Scottsdale, AZ -->
   <Hotel Rating="4.0">
     <Name>Courtyard by Marriott Tempe</Name>
-    <Phone>(480) 769-2000</Phone>
+    <Phone>480-769-2000</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>100</Number>
       <Street>S McClintock Dr</Street>
@@ -29,7 +29,7 @@
   
   <Hotel Rating="4.1">
     <Name>Embassy Suites by Hilton Tempe</Name>
-    <Phone>(480) 531-1900</Phone>
+    <Phone>480-531-1900</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>350</Number>
       <Street>E Rio Salado Pkwy</Street>
@@ -41,7 +41,7 @@
   
   <Hotel Rating="4.0">
     <Name>Hyatt Place Tempe</Name>
-    <Phone>(480) 959-8000</Phone>
+    <Phone>480-959-8000</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>217</Number>
       <Street>W University Dr</Street>
@@ -53,7 +53,7 @@
   
   <Hotel Rating="3.9">
     <Name>DoubleTree by Hilton Hotel Tempe</Name>
-    <Phone>(480) 752-3000</Phone>
+    <Phone>480-752-3000</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>100</Number>
       <Street>W University Dr</Street>
@@ -65,7 +65,7 @@
   
   <Hotel Rating="4.7">
     <Name>JW Marriott Scottsdale Camelback Inn Resort &amp; Spa</Name>
-    <Phone>(480) 945-6000</Phone>
+    <Phone>480-945-6000</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>7700</Number>
       <Street>E Camelback Rd</Street>
@@ -77,7 +77,7 @@
   
   <Hotel Rating="4.4">
     <Name>The Phoenician, a Luxury Collection Resort, Scottsdale</Name>
-    <Phone>(480) 555-1212</Phone>
+    <Phone>480-555-1212</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>6000</Number>
       <Street>W Camelback Rd</Street>
@@ -89,7 +89,7 @@
   
   <Hotel Rating="4.0">
     <Name>Omni Scottsdale Resort at McCormick Ranch</Name>
-    <Phone>(480) 555-1213</Phone>
+    <Phone>480-555-1213</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>4949</Number>
       <Street>E Camelback Rd</Street>
@@ -101,7 +101,7 @@
   
   <Hotel Rating="4.2">
     <Name>Fairmont Scottsdale Princess</Name>
-    <Phone>(480) 555-1214</Phone>
+    <Phone>480-555-1214</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>4949</Number>
       <Street>E McDowell Rd</Street>
@@ -113,7 +113,7 @@
   
   <Hotel Rating="4.3">
     <Name>Hotel Valley Ho</Name>
-    <Phone>(480) 555-1215</Phone>
+    <Phone>480-555-1215</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>70</Number>
       <Street>N Drinkwater Blvd</Street>
@@ -125,7 +125,7 @@
   
   <Hotel Rating="4.1">
     <Name>The Scott Hotel</Name>
-    <Phone>(480) 555-1216</Phone>
+    <Phone>480-555-1216</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>401</Number>
       <Street>E Camelback Rd</Street>
