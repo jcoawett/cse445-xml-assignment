@@ -1,126 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
-  <!-- RitCarlton Hotels (3 entries) -->
-  <Hotel Rating="4.5">
-    <Name>RitCarlton</Name>
-    <Phone>555-0101</Phone>
-    <Address NearestAirport="ATL">
-      <Number>101</Number>
-      <Street>Rit Carlton Way</Street>
-      <City>Atlanta</City>
-      <State>GA</State>
-      <Zip>30303</Zip>
-    </Address>
-  </Hotel>
-  <Hotel Rating="4.6">
-    <Name>RitCarlton</Name>
-    <Phone>555-0102</Phone>
-    <Phone>555-0102-EXT1</Phone>
-    <Address NearestAirport="ORD">
-      <Number>102</Number>
-      <Street>Rit Carlton Blvd</Street>
-      <City>Chicago</City>
-      <State>IL</State>
-      <Zip>60606</Zip>
-    </Address>
-  </Hotel>
-  <Hotel>
-    <!-- This RitCarlton omits the Rating attribute -->
-    <Name>RitCarlton</Name>
-    <Phone>555-0103</Phone>
-    <Address NearestAirport="JFK">
-      <Number>103</Number>
-      <Street>Rit Carlton Dr</Street>
-      <City>New York</City>
-      <State>NY</State>
-      <Zip>10001</Zip>
-    </Address>
-  </Hotel>
-
-  <!-- Nobu Hotels (2 entries) -->
-  <Hotel Rating="4.3">
-    <Name>Nobu</Name>
-    <Phone>555-0201</Phone>
-    <Address NearestAirport="LAX">
-      <Number>201</Number>
-      <Street>Nobu St</Street>
-      <City>Los Angeles</City>
-      <State>CA</State>
-      <Zip>90001</Zip>
-    </Address>
-  </Hotel>
+  <!-- Hotel Example from Figure 1 -->
   <Hotel Rating="4.2">
-    <Name>Nobu</Name>
-    <Phone>555-0202</Phone>
-    <Address NearestAirport="MIA">
-      <Number>202</Number>
-      <Street>Nobu Ave</Street>
-      <City>Miami</City>
-      <State>FL</State>
-      <Zip>33101</Zip>
-    </Address>
-  </Hotel>
-
-  <!-- Omni Hotels (2 entries) -->
-  <Hotel Rating="4.0">
-    <Name>Omni</Name>
-    <Phone>555-0301</Phone>
-    <Address NearestAirport="DFW">
-      <Number>301</Number>
-      <Street>Omni Plaza</Street>
-      <City>Dallas</City>
-      <State>TX</State>
-      <Zip>75201</Zip>
-    </Address>
-  </Hotel>
-  <Hotel Rating="3.9">
-    <Name>Omni</Name>
-    <Phone>555-0302</Phone>
-    <Address NearestAirport="PHX">
-      <Number>302</Number>
-      <Street>Omni Drive</Street>
-      <City>Phoenix</City>
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E.7th St</Street>
+      <City>Tempe</City>
       <State>AZ</State>
-      <Zip>85001</Zip>
+      <Zip>85281</Zip>
     </Address>
   </Hotel>
-
-  <!-- The Scott Hotel (1 entry) -->
+  
+  <!-- Additional 10 Real Hotels in Tempe/Scottsdale, AZ -->
+  <Hotel Rating="4.0">
+    <Name>Courtyard by Marriott Tempe</Name>
+    <Phone>(480) 769-2000</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>100</Number>
+      <Street>S McClintock Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
   <Hotel Rating="4.1">
-    <Name>The Scott</Name>
-    <Phone>555-0401</Phone>
-    <Address NearestAirport="SEA">
-      <Number>401</Number>
-      <Street>Scott Road</Street>
-      <City>Seattle</City>
-      <State>WA</State>
-      <Zip>98101</Zip>
+    <Name>Embassy Suites by Hilton Tempe</Name>
+    <Phone>(480) 531-1900</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>350</Number>
+      <Street>E Rio Salado Pkwy</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
     </Address>
   </Hotel>
-
-  <!-- The Phoenician Hotel (1 entry) -->
+  
+  <Hotel Rating="4.0">
+    <Name>Hyatt Place Tempe</Name>
+    <Phone>(480) 959-8000</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>217</Number>
+      <Street>W University Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="3.9">
+    <Name>DoubleTree by Hilton Hotel Tempe</Name>
+    <Phone>(480) 752-3000</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>100</Number>
+      <Street>W University Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.7">
+    <Name>JW Marriott Scottsdale Camelback Inn Resort &amp; Spa</Name>
+    <Phone>(480) 945-6000</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>7700</Number>
+      <Street>E Camelback Rd</Street>
+      <City>Paradise Valley</City>
+      <State>AZ</State>
+      <Zip>85253</Zip>
+    </Address>
+  </Hotel>
+  
   <Hotel Rating="4.4">
-    <Name>The Phoenician</Name>
-    <Phone>555-0501</Phone>
-    <Address NearestAirport="PHX">
-      <Number>501</Number>
-      <Street>Phoenician Blvd</Street>
+    <Name>The Phoenician, a Luxury Collection Resort, Scottsdale</Name>
+    <Phone>(480) 555-1212</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>6000</Number>
+      <Street>W Camelback Rd</Street>
       <City>Scottsdale</City>
       <State>AZ</State>
-      <Zip>85260</Zip>
+      <Zip>85251</Zip>
     </Address>
   </Hotel>
-
-  <!-- Waldorf Astoria Hotel (1 entry) -->
-  <Hotel Rating="4.7">
-    <Name>Waldorf Astoria</Name>
-    <Phone>555-0601</Phone>
-    <Address NearestAirport="JFK">
-      <Number>601</Number>
-      <Street>Astoria Way</Street>
-      <City>New York</City>
-      <State>NY</State>
-      <Zip>10128</Zip>
+  
+  <Hotel Rating="4.0">
+    <Name>Omni Scottsdale Resort at McCormick Ranch</Name>
+    <Phone>(480) 555-1213</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>4949</Number>
+      <Street>E Camelback Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85251</Zip>
     </Address>
   </Hotel>
+  
+  <Hotel Rating="4.2">
+    <Name>Fairmont Scottsdale Princess</Name>
+    <Phone>(480) 555-1214</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>4949</Number>
+      <Street>E McDowell Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85254</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.3">
+    <Name>Hotel Valley Ho</Name>
+    <Phone>(480) 555-1215</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>70</Number>
+      <Street>N Drinkwater Blvd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85251</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.1">
+    <Name>The Scott Hotel</Name>
+    <Phone>(480) 555-1216</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>401</Number>
+      <Street>E Camelback Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85251</Zip>
+    </Address>
+  </Hotel>
+  
 </Hotels>
