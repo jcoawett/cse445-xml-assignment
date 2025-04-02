@@ -4,15 +4,15 @@
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearestAirport="Sky Habor">
+    <Address NearestAirport="Sky Harbor">
       <Number>11</Number>
-      <Street>E 7th St</Street>
+      <Street>E.7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  <Hotel>
+  <Hotel Rating="4.0">
     <Name>Hilton</Name>
     <Phone>123-456-7890</Phone>
     <Address NearestAirport="LAX">
@@ -23,7 +23,7 @@
       <Zip>90001</Zip>
     </Address>
   </Hotel>
-  <Hotel Rating="3.8">
+  <Hotel Rating="3.9">
     <Name>Hyatt</Name>
     <Phone>987-654-3210</Phone>
     <Phone>800-222-1212</Phone>
@@ -35,7 +35,7 @@
       <Zip>10001</Zip>
     </Address>
   </Hotel>
-  <Hotel Rating="4.5">
+  <Hotel>
     <Name>Marriott</Name>
     <Phone>800-555-5555</Phone>
     <Address NearestAirport="O'Hare">
@@ -46,10 +46,10 @@
       <Zip>60601</Zip>
     </Address>
   </Hotel>
-  <Hotel>
+  <Hotel Rating="4.1">
     <Name>Holiday Inn</Name>
     <Phone>800-444-4444</Phone>
-    <Address>
+    <Address NearestAirport="DFW">
       <Number>444</Number>
       <Street>Elm St</Street>
       <City>Dallas</City>
@@ -57,7 +57,7 @@
       <Zip>75201</Zip>
     </Address>
   </Hotel>
-  <Hotel Rating="3.2">
+  <Hotel>
     <Name>Omni</Name>
     <Phone>888-777-7777</Phone>
     <Address NearestAirport="PHX">
@@ -68,10 +68,10 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
-  <Hotel>
+  <Hotel Rating="3.8">
     <Name>Radisson</Name>
     <Phone>877-555-1234</Phone>
-    <Address>
+    <Address NearestAirport="YYZ">
       <Number>33</Number>
       <Street>Bay St</Street>
       <City>Toronto</City>
@@ -93,7 +93,7 @@
   <Hotel Rating="3.6">
     <Name>Embassy Suites</Name>
     <Phone>800-333-4444</Phone>
-    <Address>
+    <Address NearestAirport="LAX">
       <Number>900</Number>
       <Street>Wilshire Blvd</Street>
       <City>Los Angeles</City>
@@ -104,7 +104,7 @@
   <Hotel>
     <Name>Comfort Inn</Name>
     <Phone>877-222-3333</Phone>
-    <Address>
+    <Address NearestAirport="SFO">
       <Number>77</Number>
       <Street>Pine St</Street>
       <City>San Francisco</City>
