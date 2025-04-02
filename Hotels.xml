@@ -111,4 +111,16 @@
     </Address>
   </Hotel>
 
-  <!-- Waldorf
+  <!-- Waldorf Astoria Hotel (1 entry) -->
+  <Hotel Rating="4.7">
+    <Name>Waldorf Astoria</Name>
+    <Phone>555-0601</Phone>
+    <Address NearestAirport="JFK">
+      <Number>601</Number>
+      <Street>Astoria Way</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10128</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
